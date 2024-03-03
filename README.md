@@ -1,7 +1,7 @@
 # Passwords-Strength-Prediction
 
 ## **Libraries/Modules Used:**
-
+<span style="color: green"> **Pandas** </span>
 * **Pandas**: For importing data and data analysis.
 * **Sqlite3**: To import data from SQL file.
 * **Numpy**: To perform numerical computation.
