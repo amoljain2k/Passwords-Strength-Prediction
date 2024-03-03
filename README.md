@@ -12,19 +12,19 @@
 
 ## **Steps performed in this project:**
 
-1. Data Collection:  
+1. **Data Collection**:  
 - Imported SQL data using sqlite3 library and then used pd.read_sql_query() function to convert SQL data into a Pandas DataFrame.
 
-2. Data Cleaning:
+2. **Data Cleaning**:
 - Removed irrelevant columns, checked for duplicate rows, and missing values.
 
-3. Data Analysis:
+3. **Data Analysis**:
 - Performed semantic analysis to draw meaningful conclusions from the data, i.e., natural language. Determined the count of passwords having only alphabets, only numbers, alphanumeric, and containing special characters.
 
-4. Feature Engineering:
+4. **Feature Engineering**:
 - Identified factors that may affect the strength of the password: lowercase character frequency, uppercase character frequency, digit frequency, and special case frequency.
 
-5. Data Analysis on New Features Created:
+5. **Data Analysis on New Features Created**:
 - Conducted descriptive analysis using boxplots and numerical computations such as max, min, mean, and median to determine whether Total Length, Lowercase character frequency, Uppercase character frequency, Digit frequency, and Special case frequency have an effect on the password strength.
 
 6. Feature Engineering (Continued):
