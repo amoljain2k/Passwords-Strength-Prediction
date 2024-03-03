@@ -12,8 +12,8 @@
 
 ## **Steps performed in this project:**
 
-1 Data Collection:
-Imported SQL data using sqlite3 library and then used pd.read_sql_query() function to convert SQL data into a Pandas DataFrame.
+1 Data Collection:  
+- Imported SQL data using sqlite3 library and then used pd.read_sql_query() function to convert SQL data into a Pandas DataFrame.
 
 2 Data Cleaning:
 Removed irrelevant columns, checked for duplicate rows, and missing values.
