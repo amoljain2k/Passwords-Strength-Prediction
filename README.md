@@ -33,3 +33,4 @@
 
 7. Model Building:
 - With 1 dependent feature (strength) and 3 independent features (password, length, and lowercase character frequency), trained the model using Logistic Regression.
+- This Model had 80% accuracy
