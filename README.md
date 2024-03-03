@@ -3,12 +3,12 @@
 **Libraries/Modules Used:**
 
 * Pandas: For importing data and data analysis.
-sqlite3: To import data from SQL file.
-Numpy: To perform numerical computation.
-Matplotlib, Seaborn, Plotly: For data visualization.
-Warnings: For error handling.
-String: To get special characters.
-Scikit-learn: For model building and TF-IDF.
+* Sqlite3: To import data from SQL file.
+* Numpy: To perform numerical computation.
+* Matplotlib, Seaborn, Plotly: For data visualization.
+* Warnings: For error handling.
+* String: To get special characters.
+* Scikit-learn: For model building and TF-IDF.
 
 Steps performed in this project:
 
