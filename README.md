@@ -1,6 +1,6 @@
 # Passwords-Strength-Prediction
 
-**Libraries/Modules Used:**
+## **Libraries/Modules Used:**
 
 * Pandas: For importing data and data analysis.
 * Sqlite3: To import data from SQL file.
@@ -10,7 +10,7 @@
 * String: To get special characters.
 * Scikit-learn: For model building and TF-IDF.
 
-Steps performed in this project:
+## **Steps performed in this project:**
 
 1 Data Collection:
 Imported SQL data using sqlite3 library and then used pd.read_sql_query() function to convert SQL data into a Pandas DataFrame.
